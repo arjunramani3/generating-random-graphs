@@ -1,6 +1,5 @@
-#3/15/16
-#EverythingCode
-#Finished and works
+#This file contains methods to count various motifs of graphs from the networkx package. It also contains methods to plot properties of 
+#graphs like the degree distribution.
 
 
 #!/usr/bin/python
